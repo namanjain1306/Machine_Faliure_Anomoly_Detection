@@ -1,0 +1,2 @@
+# Machine_Faliure_Anomoly_Detection
+Machine_Faliure_Anomoly_Detection
